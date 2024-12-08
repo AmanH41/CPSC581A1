@@ -1,3 +1,5 @@
+###  [(Assignment 2)](https://amanh41.github.io/CPSC581A2/) [(Individual Project)](https://amanh41.github.io/CPSC581IndividualProject/) [(Assignment 3)](https://amanh41.github.io/CPSC581-A3/)
+
 # RPS BattleZ
 
 ### [link to code](https://glitch.com/edit/#!/cpsc-581-project-1-rps?path=button_handling.js%3A26%3A2)
